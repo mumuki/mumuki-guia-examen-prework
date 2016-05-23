@@ -19,4 +19,4 @@ Pero si la cantidad mínima fuera 3, la clase no se abriria:
 false
 ```
 
-> Escribi la función `profesoraFuriosa`
+> Escribi la función `seAbre`
