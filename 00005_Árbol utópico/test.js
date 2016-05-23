@@ -3,7 +3,7 @@ describe("", () => {
     assert.equal(alturaArbolUtopico(0), 1);
   });
   it("alturaArbolUtopico(1)", () => {
-    assert.equal(alturaArbolUtopico(1), 2;
+    assert.equal(alturaArbolUtopico(1), 2);
   });
   it("alturaArbolUtopico(2)", () => {
     assert.equal(alturaArbolUtopico(2), 3);
