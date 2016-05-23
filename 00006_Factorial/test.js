@@ -8,14 +8,14 @@ describe("", () => {
   it("factorial(3)", () => {
     assert.equal(factorial(3), 6);
   })
-  it("factorial(1)", () => {
-    assert.equal(factorial(4), 12);
+  it("factorial(4)", () => {
+    assert.equal(factorial(4), 24);
   })
-  it("factorial(1)", () => {
-    assert.equal(factorial(5), 60);
+  it("factorial(5)", () => {
+    assert.equal(factorial(5), 120);
   })
-  it("factorial(1)", () => {
-    assert.equal(factorial(6), 360);
+  it("factorial(6)", () => {
+    assert.equal(factorial(6), 720);
   })
   
 })
