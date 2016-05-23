@@ -1,6 +1,6 @@
 describe("", () => {
   it("escalera(3)", () => {
-    assert.equal(
+    assert.deepEqual(
       escalera(3), 
       [
         "  #",
@@ -9,7 +9,7 @@ describe("", () => {
   })
   
   it("escalera(4)", () => {
-    assert.equal(
+    assert.deepEqual(
       escalera(4), 
       [
         "   #",
@@ -19,7 +19,7 @@ describe("", () => {
   })
   
   it("escalera(5)", () => {
-    assert.equal(
+    assert.deepEqual(
       escalera(5), 
       [
         "    #",
