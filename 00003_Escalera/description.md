@@ -1,18 +1,25 @@
-Your teacher has given you the task of drawing a staircase structure. Being an expert programmer, you decided to make a program to draw it for you instead. Given the required height, can you print a staircase as shown in the example?
+Queremos representar una escalera de altura variable, utilizando un array de strings. 
 
-Input 
-You are given an integer  depicting the height of the staircase.
+Por ejemplo, a una escalera de altura 3, la representamos con el siguiente array: 
 
-Output 
-Print a staircase of height  that consists of # symbols and spaces. For example for , here's a staircase of that height:
-
-```
-     #
-    ##
-   ###
-  ####
- #####
-######
+```javascript
+var escalera3 = [
+  "  #",
+  " ##",
+  "###"
+]
 ```
 
+Y a una escalera de altura 5, de la siguiente forma: 
 
+```javascript
+var escalera5 = [
+  "    #",
+  "   ##",
+  "  ###",
+  " ####",
+  "#####"
+]
+```
+
+> Escribí una función `escalera` que tome una altura y devuelva el array que represente a la escalera correspondiente. 
