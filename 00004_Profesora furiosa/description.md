@@ -19,4 +19,13 @@ Pero si la cantidad mínima fuera 3, la clase no se abriria:
 false
 ```
 
-> Escribi la función `seAbre`
+> Escribi las siguientes funciones: 
+> 
+> 1. `seAbre`, que dice si se hace una clase dado el array de ingresos
+> 2. `aperturas`, que toma un array con los arrays de ingresos de varios días, y la cantidad mínima de estudiante, y diga que dias se abrió y que días no. Por ejemplo:
+> 
+> ```javascript
+> aperturas([ingresosDelLunes, ingresosDelMartes, ingresosDelMiercoles], 2)
+> [true, false, false]
+>
+> ```
