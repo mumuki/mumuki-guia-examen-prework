@@ -15,7 +15,7 @@ describe("", () => {
     assert.equal(productoria([]), 1);
   })
   
-  it("productoria([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]) es 10", () => {
+  it("productoria([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]) es 3628800", () => {
     assert.equal(productoria([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]), 3628800);
   })
 })
