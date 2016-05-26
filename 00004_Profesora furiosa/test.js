@@ -20,4 +20,9 @@ describe("", () => {
     assert(seAbre([0, 0, 3, 0], 3))
   })
   
+  
+  it("aperturas([[0, 0, 3, 0], [1, 2, 4, 5], [0, 0, -1], 3)", () => {
+    assert(aperturas([[0, 0, 3, 0], [1, 2, 4, 5], [0, 0, -1]], 3), [true, false, false])
+  })
+  
 })
