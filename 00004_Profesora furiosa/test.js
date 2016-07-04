@@ -22,6 +22,10 @@ describe("", () => {
   
   
   it("aperturas([[0, 0, 3, 0], [1, 2, 4, 5], [0, 0, -1]], 3)", () => {
+    assert.equal(aperturas([[0, 0, 3, 0], [1, 2, 4, 5], [0, 0, -1]], 3), [true, false, true])
+  })
+  
+  it("aperturas([[0, 0, -3, 0], [1, 2, 4, 5], [0, 0, -1]], 4)", () => {
     assert.equal(aperturas([[0, 0, 3, 0], [1, 2, 4, 5], [0, 0, -1]], 3), [true, false, false])
   })
   
