@@ -26,7 +26,7 @@ describe("", () => {
   })
   
   it("aperturas([[0, 0, -3, 0], [1, 2, 4, 5], [0, 0, -1]], 4)", () => {
-    assert.deepEqual(aperturas([[0, 0, 3, 0], [1, 2, 4, 5], [0, 0, -1]], 4), [true, false, false])
+    assert.deepEqual(aperturas([[0, 0, -3, 0], [1, 2, 4, 5], [0, 0, -1]], 4), [true, false, false])
   })
   
 })
