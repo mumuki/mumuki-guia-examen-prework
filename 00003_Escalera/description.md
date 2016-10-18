@@ -25,7 +25,7 @@ var escalera5 = [
 Recordas el repeat? se puede utilizar para repetir texto en Javascript;
 
 ```javascript
-var escalon = "#".repeat(2); // escalon = "##";
+var escalon = "#".repeat(2); // ahora escalon = "##";
 ```
 
 Esto nos serviría para armar nuestros escalones;
