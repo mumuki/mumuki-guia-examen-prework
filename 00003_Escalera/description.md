@@ -30,7 +30,7 @@ var escalon = "#".repeat(2); // ahora escalon = "##";
 
 Esto nos serviría para armar nuestros escalones;
 
-¿Pero como hago para hacer tantos escalones como el número me indique? ¿Cómo inserto un escalón, o en otras palabras un elemento en un array?
+¿Pero como hago para insertar tantos escalones como el número me indique a mi array resultado? ¿Cómo inserto un escalón, o en otras palabras un elemento en un array?
 
 
-> Escribí una función `escalera` que tome una altura y devuelva el array que represente a la escalera correspondiente. 
+> Escribí una función `escalera` que tome una altura (un número) y devuelva un array que represente a la escalera correspondiente. 
