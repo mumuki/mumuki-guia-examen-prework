@@ -1,6 +1,6 @@
 Una profesora de programación, cansada de que los estudiantes lleguen tarde, decidió que va a cancelar la clase si hay pocos presentes. 
 
-Ella representa los ingresos de los estudiantes como un array de tiempos de llegada tarde, en minutos. Por ejemplo, si un estudiante llegó 10 minutos tarde, otro 5 minutos antes de hora, otro 3 minutos tarde, y otro puntual, lo representa así: 
+Ella representa a los ingresos de los estudiantes como un array de tiempos de llegada tarde, en minutos. Por ejemplo, si un estudiante llegó 10 minutos tarde, otro 5 minutos antes de hora, otro 3 minutos tarde, y otro puntual, lo representa así: 
 
 ```javascript
 var ingresosDelLunes = [10, -5, 3, 0];
