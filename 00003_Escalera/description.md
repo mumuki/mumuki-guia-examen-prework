@@ -23,6 +23,9 @@ var escalera5 = [
 ```
 
 Recordas el repeat?? se puede utilizar para repetir texto en Javascript;
+```javascript
 "a".repeat(2) = "aa"
+```
+
 
 > Escribí una función `escalera` que tome una altura y devuelva el array que represente a la escalera correspondiente. 
