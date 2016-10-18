@@ -24,8 +24,11 @@ var escalera5 = [
 
 Recordas el repeat?? se puede utilizar para repetir texto en Javascript;
 ```javascript
-"a".repeat(2) = "aa"
+"#".repeat(2) = "##"
 ```
+Esto nos serviría para armar nuestros escalones;
+
+¿Pero como hago para hacer tantos escalones como el número me indique? ¿Cómo inserto un escalón, o en otras palabras un elemento en un array?
 
 
 > Escribí una función `escalera` que tome una altura y devuelva el array que represente a la escalera correspondiente. 
