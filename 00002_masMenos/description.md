@@ -6,6 +6,5 @@ Necesitamos una función `masMenos` que reciba un array y devuelva otro con los 
 
 Por ejemplo, `masMenos([1, 2, 0, -1])` debería devolver  `[0.5, 0.25, 0.25]`, dado que hay 50% de positivos, 25% de ceros, y 25% de negativos. 
 
-Recordás como recorrer un array y preguntar si el valor de cada elemento es positivo, negativo o cero?¿Cómo iría contabilizándolos? ¿Como construyo mi array respuesta con estos valores? Y para sacar los porcentajes, recordas la regla de 3?
 > Escribí la función `masMenos`.
 
