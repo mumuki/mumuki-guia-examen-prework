@@ -1,4 +1,4 @@
-Recordas el repeat? se puede utilizar para repetir texto en Javascript;
+¿Recordas el repeat? se puede utilizar para repetir texto en Javascript;
 
 ```javascript
 var escalon = "#".repeat(2); // ahora escalon = "##";
