@@ -5,6 +5,7 @@ Ella representa a los ingresos de los estudiantes como un array de tiempos de ll
 ```javascript
 var ingresosDelLunes = [10, -5, 3, 0];
 ```
+
 Con esta información y la cantidad de estudiantes mínimos para abrir el curso, la profesora quiere saber si la clase se abre. Por ejemplo, suponiendo que la cantidad minima de estudiantes para que la clase se de es 2, el curso del lunes se abre, porque hubo un estudiante que llegó puntual y un estudiante que llegó temprano. 
 
 ```javascript
